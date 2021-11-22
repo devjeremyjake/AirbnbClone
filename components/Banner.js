@@ -5,6 +5,7 @@ const Banner = () => {
 			<Image
 				src="https://links.papareact.com/0fm"
 				layout="fill"
+				priority
 				objectFit="cover"
 			/>
 			<div className="absolute top-1/2 w-full text-center">
